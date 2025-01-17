@@ -12,5 +12,5 @@ def test_sub():
 
 def test_mul():
     assert mul(5,3)==15
-    assert sub(4,3)==12
-    assert sub(3,3)==0
+    assert mul(4,3)==12
+    assert mul(3,0)==0
